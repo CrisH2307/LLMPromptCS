@@ -1,0 +1,5 @@
+/Users/crishuynh/Documents/C#/Test7/obj/Debug/net7.0/Test7.csproj.AssemblyReference.cache
+/Users/crishuynh/Documents/C#/Test7/obj/Debug/net7.0/Test7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crishuynh/Documents/C#/Test7/obj/Debug/net7.0/Test7.AssemblyInfoInputs.cache
+/Users/crishuynh/Documents/C#/Test7/obj/Debug/net7.0/Test7.AssemblyInfo.cs
+/Users/crishuynh/Documents/C#/Test7/obj/Debug/net7.0/Test7.csproj.CoreCompileInputs.cache

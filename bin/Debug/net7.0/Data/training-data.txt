@@ -1,0 +1,20 @@
+The quick brown fox jumps over the lazy dog
+Machine learning is a subset of artificial intelligence
+Language models can generate human-like text
+C# is a powerful programming language
+Neural networks are inspired by the human brain
+Deep learning models require large amounts of data
+Transformers have revolutionized natural language processing
+Training language models requires computational resources
+Small language models are more efficient than large ones
+Text generation can be controlled with temperature parameters
+Tokenization is the first step in processing text data
+Word embeddings capture semantic relationships between words
+Attention mechanisms help models focus on relevant context
+Transfer learning allows reusing pretrained models
+Fine-tuning adapts models to specific tasks
+Perplexity measures how well a model predicts text
+Cross-entropy loss is used to train language models
+Overfitting happens when models memorize training data
+Regularization techniques prevent overfitting
+Batch processing improves training efficiency
