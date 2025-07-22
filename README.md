@@ -1,6 +1,9 @@
+
 # Language Model Training in C#
 
 This project demonstrates how to train and use language models (both small and large) using C# and ML.NET. It provides a structured approach to text processing, model training, evaluation, and text generation.
+
+<img width="1352" height="932" alt="Screenshot 2025-07-22 at 12 26 38 PM" src="https://github.com/user-attachments/assets/f0ede780-f920-4558-a559-64c2beb4d514" />
 
 ## Project Structure
 
